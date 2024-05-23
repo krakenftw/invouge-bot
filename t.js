@@ -1,4 +1,4 @@
-const botTag = document.getElementsByTagName("chatBotInvouge")[0];
+const botTag = document.getElementsByTagName("chat-bot-invouge")[0];
 const botId = botTag.getAttribute("agent-id");
 let defaultSettings;
 
